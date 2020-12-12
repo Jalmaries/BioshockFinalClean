@@ -1,0 +1,51 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 03.03.2018 23:07:49
+
+newmtl _plasmidgrowth_DropBoxvend_diffuse_shader
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka vend_diffuse.png
+	map_Kd vend_diffuse.png
+	map_bump vend_normalmap.png
+	bump vend_normalmap.png
+
+newmtl _plasmidgrowth_DropBoxvendsign_diffuse_shader
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka vendsign_diffuse.png
+	map_Kd vendsign_diffuse.png
+	map_Ks vendsign_masks.png
+	map_bump vendsign_normalmap.png
+	bump vendsign_normalmap.png
+
+newmtl _plasmidgrowth_DropBoxvendneon_diffuse_shader
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka vendneon_diff.png
+	map_Kd vendneon_diff.png
+	map_Ke vendneon_diff.png
+	map_d vendneon_alpha.png
