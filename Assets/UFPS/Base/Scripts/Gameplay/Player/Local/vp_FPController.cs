@@ -27,6 +27,7 @@ public class vp_FPController : vp_CharacterController
 	public Vector3 SmoothPosition { get { return m_SmoothPosition; } }	// a version of the controller position calculated in 'Update' to get smooth camera motion
 	public Vector3 Velocity { get { return CharacterController.velocity; } }
 	protected bool m_IsFirstPerson = true;
+	private PlayerFootstepSound player_Footsteps;
 
 	// collision
 	public bool HeadContact { get { return m_HeadContact; } }
